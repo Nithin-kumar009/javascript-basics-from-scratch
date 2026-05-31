@@ -1,4 +1,4 @@
 git add .
- git commit -m "added array practice questions"
+ git commit -m "added array methods"
  git branch -m main
  git push origin main
