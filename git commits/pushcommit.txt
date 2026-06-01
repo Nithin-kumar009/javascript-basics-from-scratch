@@ -1,4 +1,4 @@
 git add .
- git commit -m "added array crud practices"
+ git commit -m "added object crud practices"
  git branch -m main
  git push origin main
