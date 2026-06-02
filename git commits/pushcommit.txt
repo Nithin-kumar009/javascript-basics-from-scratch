@@ -1,4 +1,4 @@
 git add .
- git commit -m "added object crud practices"
+ git commit -m "added oparators pq"
  git branch -m main
  git push origin main
