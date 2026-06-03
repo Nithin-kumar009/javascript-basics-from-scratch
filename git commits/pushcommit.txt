@@ -1,4 +1,4 @@
 git add .
- git commit -m "modified oparators pq3"
+ git commit -m "modified input2"
  git branch -m main
  git push origin main
