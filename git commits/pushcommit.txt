@@ -1,4 +1,4 @@
 git add .
- git commit -m "modified input2"
+ git commit -m "added check"
  git branch -m main
  git push origin main
