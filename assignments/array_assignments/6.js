@@ -1,7 +1,7 @@
-//print only the products under 400
+//print only the prices greater than 400
 let prices =[199, 129, 98, 78, 11, 171, 1055];
 for(i=0; i<prices.length;i++){
-    if (prices[i]<400) {
+    if (prices[i]>400) {
         
         console.log(prices[i]);
     }
