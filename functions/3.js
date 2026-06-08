@@ -4,3 +4,4 @@ function add(a,b,c=1){
 add(10,20,30)
 add(10,20)
 add(1,2,3)
+add("rahul","gandhi",1)
