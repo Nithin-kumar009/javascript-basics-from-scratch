@@ -7,3 +7,8 @@ function cc2(){
 function cc5(){
     document.getElementsByClassName('xyz')[0].style.backgroundColor="yellow";
 }
+function cc6(){
+    let names=document.getElementsByTagName('input')[1].value;
+    alert(names)
+document.querySelector('.inputbox').value=names.toUpperCase()
+}
