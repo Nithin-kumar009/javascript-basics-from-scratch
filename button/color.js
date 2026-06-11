@@ -9,6 +9,6 @@ function cc5(){
 }
 function cc6(){
     let names=document.getElementsByTagName('input')[1].value;
-    alert(names)
+    alert("name should be in uppwecase")
 document.querySelector('.inputbox').value=names.toUpperCase()
 }
