@@ -6,3 +6,5 @@ function add(a,b){
 let r1=add(10,20)
 console.log(r1)
 
+//how to verify array and object is empty or not. and how to print object in Browser
+
