@@ -13,3 +13,6 @@ let new_user={...user,password:new_Pwd}
 console.log(user)  //getting from fronent form
 console.log(new_user)//storing into db
 console.log(hello);
+console.log(namaste
+    
+);
