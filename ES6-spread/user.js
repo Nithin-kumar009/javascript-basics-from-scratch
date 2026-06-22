@@ -1,7 +1,7 @@
 import bcrypt from 'bcrypt'
 let user={
     uname:'rahul@gmail.com',
-    mobile:'9591619191',
+    mobile:'9591619192',
     password:'ILoveIndia'
 }
 let salt=bcrypt.genSaltSync(10);
