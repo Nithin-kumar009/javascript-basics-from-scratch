@@ -1,0 +1,13 @@
+es6 features
+let, const
+${}
+() => {}
+class
+[] new method:
+ array.map()
+ filter()
+ foreach()
+ find()
+ reduce()
+ 
+
